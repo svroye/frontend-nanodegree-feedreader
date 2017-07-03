@@ -41,11 +41,13 @@ function init() {
  * which will be called after everything has run successfully.
  */
  function loadFeed(id, cb) {
+    var feedUrl,
+        feedName;
     if(id < allFeeds.length){
-        var feedUrl = allFeeds[id].url,
-            feedName = allFeeds[id].name;
+        feedUrl = allFeeds[id].url;
+        feedName = allFeeds[id].name;
     } else {
-        alert('Not an existing id for the feed list !')
+        alert('Not an existing id for the feed list !');
     }
 
 
