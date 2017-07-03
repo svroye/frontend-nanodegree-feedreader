@@ -1,15 +1,12 @@
 
 
-19. Implement error handling for undefined variables and out-of-bound array access.
-20. When complete - all of your tests should pass. 
-21. Write a README file detailing all steps required to successfully run the application. If you have added additional tests (for Udacious Test Coverage),  provide documentation for what these future features are and what the tests are checking for.
 
 
-#Feedreader - Writing Test Suites
+# Feedreader - Writing Test Suites
 
 This project is part of Udacity's Front-End Nanodegree.
 
-## How to use
+### How to use
 - Clone the repository on your local device
 - Open the index.html file in a browser
 - You will see links to certain feeds, which on clicking will redirect you
