@@ -48,7 +48,7 @@ $(function() {
                 expect(feed.name).toBeDefined();
                 expect(feed.name.length).not.toBe(0);
             });
-         })
+         });
     });
 
 
@@ -58,7 +58,7 @@ $(function() {
 
         beforeEach(function() {
             bodyTag = document.getElementsByTagName("body")[0];
-        })
+        });
 
         /* TODO: Write a test that ensures the menu element is
          * hidden by default. You'll have to analyze the HTML and
