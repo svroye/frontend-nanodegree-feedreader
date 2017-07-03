@@ -4,7 +4,7 @@
 
 # Feedreader - Writing Test Suites
 
-This project is part of Udacity's Front-End Nanodegree.
+This project is part of Udacity's Front-End Nanodegree. The project handles writing unit test case using Jasmine.
 
 ### How to use
 - Clone the repository on your local device
